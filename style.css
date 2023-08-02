@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: #ff4d4d;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+h1{
+  color: yellow;
+}
+h4 {
+  color: yellow;
+}
